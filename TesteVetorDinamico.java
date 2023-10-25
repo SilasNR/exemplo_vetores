@@ -14,8 +14,10 @@ public class TesteVetorDinamico {
             v.exibir();
             System.out.println("\nXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX");
             //dormir 5 segundos
-            Thread.sleep(5000);
+            Thread.sleep(500);
 
         }
-    }    
+    }  
+    
+    
 }
